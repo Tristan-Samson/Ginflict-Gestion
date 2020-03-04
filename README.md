@@ -1,4 +1,4 @@
-# Ginflict-Gestion
+REMOTE
 
 Some text lines
 Some text lines
