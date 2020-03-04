@@ -1,4 +1,4 @@
-# Ginflict-Gestion
+LOCAL
 
 Some text lines
 Some text lines
